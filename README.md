@@ -1,0 +1,1 @@
+The ESP32 is programmed to function as a sensor that transmits data from the DF and Nova sensors, as well as data from the nearest SIATA reference station to the nodes. The data is transmitted via MQTT to the corresponding SIATA reference station number topic.
