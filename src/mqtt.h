@@ -6,7 +6,7 @@
 
 // MQTT settings
 const String ID = "1";
-const String BROKER = "192.168.179.18";
+const String BROKER = "192.168.43.228";
 const String CLIENT_NAME = "Sensor_"+ID;
 const String TOPIC = "80";
 
